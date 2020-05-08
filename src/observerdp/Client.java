@@ -5,9 +5,9 @@
  */
 package observerdp;
 
-import interfaces.Observer;
-import model.EmailTopic;
-import model.EmailTopicSubscriber;
+import model.observer.Observer;
+import model.subject.impl.EmailTopic;
+import model.observer.impl.EmailTopicSubscriber;
 
 /**
  *

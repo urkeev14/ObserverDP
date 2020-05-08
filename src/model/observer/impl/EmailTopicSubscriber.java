@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package model;
+package model.observer.impl;
 
-import interfaces.Observer;
-import interfaces.Subject;
+import model.observer.Observer;
+import model.subject.Subject;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
